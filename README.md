@@ -1,5 +1,7 @@
-AppleALC
+AppleALC IDT92H1BXX for HP dv4-5103tx
 ========
+
+### Change the codec and pinconfig in layout12 in original IDT92H1BXX , tested on HP dv4-5103tx
 
 An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
 
